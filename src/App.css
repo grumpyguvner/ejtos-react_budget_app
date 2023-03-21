@@ -36,3 +36,5 @@
     transform: rotate(360deg);
   }
 }
+
+#dropdown-currency-button .dropdown-menu { background-color: #FF0000; }
